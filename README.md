@@ -1,4 +1,5 @@
 # HeyYou
+An Android Mental Wellness Application
 
 Problem Statement: 
 Due to various factors prevalent in society, people are going in a state of depression and anxiety and sometimes they find themselves in a situation where nobody is there to hold their hands. So we are designing an app which can help in bringing these people to a stable state. 
